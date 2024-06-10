@@ -1,0 +1,1 @@
+The first day of my journey to become a full-stack software engineer.
